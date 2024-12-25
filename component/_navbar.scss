@@ -1,0 +1,33 @@
+header{
+    nav{
+        background-color: $primary;
+    }
+    ul{
+        gap: 42px;
+        li{
+          
+           
+            a{
+                color: #EFF4FA;
+                font-weight: 600;
+                font-size: 18px;
+                font-family: "Open Sans", serif;
+                transition: 0.4s;
+                
+                &:hover{
+                    color: #1BBF00;
+                }
+               
+                
+            }
+            .active{
+                color: #1BBF00;
+            }
+           
+        }
+       
+    }
+    button{
+        @include button;
+    }
+}

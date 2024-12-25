@@ -1,0 +1,38 @@
+.container {
+  max-width: 1170px;
+}
+
+a {
+  text-decoration: none;
+}
+
+header nav {
+  background-color: rgba(22, 12, 109, 0.5);
+}
+header ul {
+  gap: 42px;
+}
+header ul li a {
+  color: #EFF4FA;
+  font-weight: 600;
+  font-size: 18px;
+  font-family: "Open Sans", serif;
+  transition: 0.4s;
+}
+header ul li a:hover {
+  color: #1BBF00;
+}
+header ul li .active {
+  color: #1BBF00;
+}
+header button {
+  background: #1BBF00;
+  color: #FFFFFF;
+  font-size: 18px;
+  font-weight: 600;
+  border: 0;
+  font-family: "Open Sans", serif;
+  padding: 14px 28px;
+  border-radius: 100px;
+  line-height: 200%;
+}/*# sourceMappingURL=style.css.map */
