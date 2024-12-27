@@ -227,4 +227,140 @@ header button {
   width: 319px;
   font-size: 18px;
   margin-left: 30px;
+}
+
+#course {
+  padding-top: 50px;
+  background-color: #F6F5FF;
+}
+#course .course-1 {
+  width: 370px;
+  padding: 30px 30px 30px 30px;
+}
+#course .course-1 h2 {
+  font-size: 48px;
+  color: #141135;
+  font-weight: 700;
+}
+#course .course-1 p {
+  width: 350px;
+  font-size: 18px;
+  font-weight: 400;
+  color: #6C7D93;
+  letter-spacing: 0.5px;
+  line-height: 32px;
+}
+#course .course-1 button {
+  background: #1BBF00;
+  color: #FFFFFF;
+  font-size: 18px;
+  font-weight: 600;
+  border: 0;
+  font-family: "Open Sans", serif;
+  padding: 14px 28px;
+  border-radius: 100px;
+  line-height: 200%;
+  text-transform: capitalize;
+  border: 2px solid transparent;
+}
+#course img {
+  padding-top: 48px;
+}
+#course .course-2 {
+  width: 370px;
+  transition: 0.4s;
+  padding: 20px 20px;
+  border-radius: 20px;
+}
+#course .course-2:hover {
+  background-color: #6B62C5;
+  border-radius: 20px;
+  color: #FAFAFE;
+}
+#course .course-2:hover a {
+  color: #FAFAFE;
+}
+#course .course-2 h2 {
+  font-size: 30px;
+  font-weight: 700;
+  line-height: 38px;
+  padding-top: 32px;
+}
+#course .course-2 p {
+  font-size: 18px;
+  font-weight: 400;
+  font-family: "Paprika", serif;
+  width: 257px;
+  margin: 0 auto;
+  margin-top: 16px;
+}
+#course .course-2 a {
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 24px;
+  color: #000;
+  display: inline-block;
+}
+
+.read-more {
+  position: relative;
+  margin-top: 20px;
+  z-index: 222;
+}
+.read-more span {
+  width: 27px;
+  height: 40px;
+  background-color: #bcc0c5;
+  position: absolute;
+  border-radius: 0px 100px 100px 0px;
+  right: 110px;
+  top: 50%;
+  transform: translateY(-50%);
+  z-index: -1;
+}
+
+.course-3 {
+  background-color: #FFFFFF;
+  border-radius: 20px;
+}
+.course-3 h2 {
+  font-size: 30px;
+  font-weight: 700;
+  line-height: 36px;
+  color: #141135;
+  margin-top: 32px;
+}
+.course-3 p {
+  font-size: 18px;
+  width: 278px;
+  font-weight: 700;
+  font-family: "Paprika", serif;
+  margin: 0 auto;
+  color: #726E9E;
+}
+.course-3 a {
+  font-size: 18px;
+  font-weight: 700;
+  color: #141135;
+  line-height: 24px;
+}
+.course-3 .read-more {
+  position: relative;
+  margin-top: 20px;
+  padding-bottom: 20px;
+}
+.course-3 .read-more span {
+  width: 27px;
+  height: 40px;
+  background-color: rgba(27, 191, 0, 0.5);
+  position: absolute;
+  border-radius: 0px 100px 100px 0px;
+  right: 125px;
+  top: 30%;
+  z-index: 1;
+}
+
+.do-bottom {
+  margin-top: 50px;
+  padding-bottom: 101px;
 }/*# sourceMappingURL=style.css.map */
