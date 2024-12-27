@@ -1,0 +1,46 @@
+#client{
+    position: relative;
+    img{
+        position: absolute;
+        top: 0;
+        right: 0;
+    }
+
+    .item1{
+        h2{
+            color: #1BBF00;
+            font-weight: 800;
+            font-size: 64px;
+            line-height: 68px;
+            text-align: center;
+        }
+        h4{
+            color: #141135;
+            font-size: 36px;
+            font-weight: 700;
+            line-height: 40px;
+            text-align: center;
+        }
+    }
+    .item2{
+        margin: 283px 0;
+        h2{
+            color: #1BBF00;
+            font-weight: 800;
+            font-size: 64px;
+            line-height: 68px;
+            text-align: center;
+        }
+        h4{
+            color: #141135;
+            font-size: 36px;
+            font-weight: 700;
+            line-height: 40px;
+            text-align: center;
+        }
+    }
+}
+.item1{
+   margin: 283px 0;
+   border-right: 3px solid #4F585F;
+}
