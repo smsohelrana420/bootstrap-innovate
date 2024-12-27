@@ -363,4 +363,71 @@ header button {
 .do-bottom {
   margin-top: 50px;
   padding-bottom: 101px;
+}
+
+#impact {
+  position: relative;
+}
+#impact .vector-img {
+  position: absolute;
+  bottom: -250px;
+  right: 0;
+  margin-bottom: 50px;
+  width: 200px;
+}
+#impact .impact-title h2 {
+  font-size: 48px;
+  font-weight: 700;
+  color: #141135;
+  padding-top: 91px;
+}
+#impact .impact-title p {
+  width: 558px;
+  font-size: 18px;
+  font-weight: 400;
+  color: #726E9E;
+  line-height: 30px;
+  margin: 0 auto;
+  margin-top: 23px;
+  font-family: "Paprika", serif;
+}
+#impact .impact-icon {
+  margin-top: 20px;
+}
+#impact .impact-icon h4 {
+  font-size: 30px;
+  font-weight: 700;
+  line-height: 36px;
+  color: #141135;
+}
+#impact .impact-icon p {
+  width: 343px;
+  font-size: 18px;
+  font-weight: 400;
+  color: #726E9E;
+  line-height: 30px;
+  font-family: "Paprika", serif;
+}
+#impact .impact-right-img {
+  position: relative;
+}
+#impact .impact-right-img .impact-img-1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+#impact .impact-img-2 {
+  position: absolute;
+  top: 150px;
+  right: -30px;
+}
+#impact .impact-img-3 {
+  position: absolute;
+  top: -10px;
+  right: 0;
+}
+#impact .impact-img-4 {
+  position: absolute;
+  top: 80px;
+  right: -40px;
 }/*# sourceMappingURL=style.css.map */
