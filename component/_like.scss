@@ -1,0 +1,92 @@
+#like {
+    padding: 100px 0;
+    position: relative;
+    img{
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        width: 200px;
+    }
+
+  .like-title {
+    h2 {
+      font-size: 50px;
+      font-weight: 700;
+      line-height: 65px;
+      letter-spacing: -2px;
+      color: #030314;
+      
+    }
+  }
+  .like_left{
+    width: 379px;
+    height: 200px;
+    background-color: #C4C4C4;
+    margin-top: 50px;
+    border-radius: 20px;
+   
+}   
+  
+
+  .like_right{
+    margin-left: 50px;
+    ul{
+        li{
+            margin-top: 50px;
+            a{
+                font-size: 16px;
+                font-weight: 500;
+                font-family: "Quicksand", serif;
+                color: #726E9E;
+                line-height: 25px;
+                
+
+                
+            }.active{
+                color: #1BBF00;
+                font-weight: 700;
+                line-height: 22px;
+                letter-spacing: -1px;
+                font-family: "Quicksand", serif;
+            }
+        }
+    }
+    h3{
+        font-size: 30px;
+        font-weight: 700;
+        line-height: 55px;
+        letter-spacing: -1.5px;
+        color: #141135;
+        width: 504px;
+        margin-top: 16px;
+    }
+    .like-back{
+        position: relative;
+        a{
+            margin-top: 24px;
+            color: #141135;
+            font-size: 18px;
+            font-weight: 700;
+            line-height: 24px;
+           
+
+    
+        }
+        span{
+            width: 30px;
+            height: 40px;
+            background-color: #1BBF00;
+            display: inline-block;
+            position: absolute;
+            border-radius: 0px 100px 100px 0px;
+            top: -8px;
+            left: 72px;
+            z-index: -1;
+            opacity: 0.3;
+        }
+        
+        
+       
+    }
+}
+}
