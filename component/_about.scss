@@ -1,0 +1,93 @@
+#aboutus{
+        background-color: #F8F8FF;
+        position: relative;
+        padding-bottom: 100px;
+        .about-btn{
+            .btn-left{
+                background-color: #1BBF00;
+                padding: 20px;
+                color: #FFFFFF;
+                border-radius: 50%;
+                position: absolute;
+                left: 10%;
+                bottom: 30%;
+                opacity: 0.4;
+            }
+            .btn-right{
+                background-color: #1BBF00;
+                padding: 20px;
+                color: #FFFFFF;
+                border-radius: 50%;
+                position: absolute;
+                right: 10%;
+                bottom: 30%;
+            }
+        }
+    .about-title{
+        padding-top: 150px;
+        h2{
+            font-size: 48px;
+            font-weight: 700;
+            color: #141135;
+            text-align: center;
+        }
+    }
+    .about{
+        margin-top: 152px;
+        background-color: #FFFFFF;
+        position: relative;
+        border-radius: 20px;
+        padding-bottom: 25px;
+        &:hover{
+            box-shadow: -15px 30px 50px rgba(171, 175, 199,.32);
+        }
+        ul{
+            margin-left: 505px;
+            margin-top: 20px;
+            li{
+                
+                img{
+                    width: 30px;
+                    margin-top: 120px;
+                }
+            }
+        }
+        .about-image img{
+            position: absolute;
+            border-radius: 50%;
+            top: -20%;
+            left: 50%;
+            transform: translateX(-50%);
+          
+         }
+         p{
+            font-size: 24px;
+            font-weight: 400;
+            line-height: 40px;
+            color: #726E9E;
+            width: 800px;
+            margin: 0 auto;
+            text-align: center;
+            font-family: "Paprika", serif;
+            margin-top: 35px;
+         }
+         h4{
+            font-size: 25px;
+            font-weight: 700;
+            line-height: 40px;
+            color: #221A2C;
+            text-align: center;
+            margin-top: 48px;
+         }
+         h6{
+            font-size: 16px;
+            font-weight: 400;
+            line-height: 25px;
+            color: #726E9E;
+            font-family: "Paprika", serif;
+            text-align: center;
+            margin-top: 4px;
+
+         }
+    }
+}
