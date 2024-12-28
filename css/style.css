@@ -366,6 +366,7 @@ header button {
 }
 
 #impact {
+  margin-bottom: 300px;
   position: relative;
 }
 #impact .vector-img {
@@ -430,4 +431,89 @@ header button {
   position: absolute;
   top: 80px;
   right: -40px;
+}
+
+#plan {
+  background-color: #F9F9FB;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+#plan .plan-title h2 {
+  font-size: 48px;
+  font-weight: 700;
+  color: #141135;
+  text-align: center;
+}
+#plan .plan-cart {
+  margin-top: 64px;
+}
+#plan .basic {
+  width: 370px;
+  background-color: #FFFFFF;
+  border-radius: 20px;
+}
+#plan .basic:hover {
+  box-shadow: 0 30px 60px rgba(162, 169, 192, 0.15);
+}
+#plan .basic h3 {
+  padding: 20px 30px;
+  text-align: center;
+  font-size: 30px;
+  font-weight: 700;
+  line-height: 36px;
+  color: #141135;
+}
+#plan .basic h2 {
+  font-size: 48px;
+  font-weight: 800;
+  line-height: 50px;
+  color: #1BBF00;
+  text-align: center;
+  margin-top: 20px;
+}
+#plan .basic p {
+  width: 280px;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 32px;
+  color: #726E9E;
+  font-family: "Paprika", serif;
+  margin: 0 auto;
+  text-align: center;
+}
+#plan .basic img {
+  background-color: #ECEDF0;
+}
+#plan .professional {
+  background-color: #6B62C5;
+  border-radius: 20px;
+}
+#plan .professional:hover {
+  box-shadow: 0 30px 60px rgba(162, 169, 192, 0.15);
+}
+#plan .professional h3 {
+  padding: 20px 30px;
+  text-align: center;
+  font-size: 30px;
+  font-weight: 700;
+  line-height: 36px;
+  color: #FAFAFE;
+}
+#plan .professional h2 {
+  font-size: 48px;
+  font-weight: 800;
+  line-height: 50px;
+  color: #1BBF00;
+  text-align: center;
+  margin-top: 20px;
+}
+#plan .professional p {
+  width: 280px;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 32px;
+  color: #E6E5F3;
+  font-family: "Paprika", serif;
+  margin: 0 auto;
+  text-align: center;
 }/*# sourceMappingURL=style.css.map */
