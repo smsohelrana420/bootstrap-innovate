@@ -41,17 +41,7 @@
         &:hover{
             box-shadow: -15px 30px 50px rgba(171, 175, 199,.32);
         }
-        ul{
-            margin-left: 505px;
-            margin-top: 20px;
-            li{
-                
-                img{
-                    width: 30px;
-                    margin-top: 120px;
-                }
-            }
-        }
+       
         .about-image img{
             position: absolute;
             border-radius: 50%;
@@ -69,7 +59,8 @@
             margin: 0 auto;
             text-align: center;
             font-family: "Paprika", serif;
-            margin-top: 35px;
+            padding-top: 150px;
+            
          }
          h4{
             font-size: 25px;
