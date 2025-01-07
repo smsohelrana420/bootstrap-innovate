@@ -411,6 +411,7 @@ header button {
 }
 #impact .impact-right-img {
   position: relative;
+  width:100px;
 }
 #impact .impact-right-img .impact-img-1 {
   position: absolute;

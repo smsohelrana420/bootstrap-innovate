@@ -1,0 +1,327 @@
+@media (min-width: 320px) and (max-width: 575px) {
+  /* navbar responsive start */
+
+  header nav ul {
+    text-align: center;
+}
+header nav ul li{
+    background-color: rgba(0, 128, 128,.8);
+    padding: 5px 0;
+    border-radius: 10px;
+}
+  header ul li a {
+    font-size: 15px;
+  }
+  nav ul {
+    padding-top: 50px;
+  }
+  .navbar-toggler-icon {
+    color: #fff;
+    background-color: #fff;
+  }
+  .navbar-brand img {
+    width: 80px;
+  }
+  .navbar-toggler {
+    background-color: green;
+    border: 2px solid red;
+  }
+  header ul {
+    gap: 10px;
+  }
+  nav ul {
+    padding-top: 13px;
+  }
+  header button {
+    font-size: 14px;
+    padding: 5px 12px;
+  }
+ 
+    header button{
+    margin-left: 100px;
+    margin-top: 5px;
+}
+  #banner .shapeOne {
+    top: 106px;
+  }
+  #banner .overlay h1 {
+    font-size: 17px;
+    line-height: 24px;
+    margin-bottom: 9px;
+  }
+  #banner .overlay {
+    padding-top: 119px;
+  }
+  #banner .overlay p {
+    font-size: 14px;
+    line-height: 25px;
+    max-width: auto;
+  }
+  #banner .overlay button {
+    font-size: 14px;
+    padding: 10px 20px;
+    line-height: 200%;
+    margin-top: 5px;
+  }
+  #banner .overlay p {
+    margin-bottom: 4px;
+  }
+  #banner .shapeTwo {
+    display: none;
+  }
+  #banner .overlay {
+    padding-bottom: 31px;
+  }
+  #client img {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 100px;
+    z-index: -1;
+  }
+  .item1 {
+    margin: 45px 0;
+    border-right: none;
+  }
+  #client .item1 h2 {
+    font-size: 35px;
+    line-height: 20px;
+  }
+  #client .item1 h4 {
+    font-size: 16px;
+    line-height: 24px;
+  }
+  #client .item2 {
+    margin: 45px 0;
+  }
+  #client .item2 h2 {
+    font-size: 38px;
+    line-height: 16px;
+  }
+  #client .item2 h4 {
+    font-size: 16px;
+    line-height: 33px;
+  }
+  #choose img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100px;
+  }
+  #choose .choose-left {
+    margin: 7px 0;
+  }
+  #choose .cart {
+    width: auto;
+    padding: 12px 0px;
+    margin-top: 25px;
+  }
+  #choose .cart h4 {
+    width: auto;
+    font-size: 12px;
+  }
+  #choose h2 {
+    font-size: 26px;
+    padding-top: 22px;
+  }
+  #choose p {
+    width: auto;
+    font-size: 14px;
+    line-height: 24px;
+    margin-bottom: 18px;
+  }
+  #choose button {
+    font-size: 14px;
+    padding: 4px 20px;
+  }
+  #course .course-1 h2 {
+    font-size: 25px;
+  }
+  #course {
+    padding-top: 0px;
+
+    margin-bottom: 5px;
+  }
+  #course .course-1 p {
+    width: 250px;
+    font-size: 14px;
+    line-height: 22px;
+    font-family: "Paprika", serif;
+    text-align: start;
+  }
+  #course .course-1 button {
+    font-size: 14px;
+    padding: 6px 23px;
+  }
+  #course .course-2 {
+    width: auto;
+    margin-bottom: 5;
+  }
+  .course-3 {
+    margin-top: 10px;
+  }
+  .read-more span {
+    display: none;
+  }
+  #impact .impact-title h2 {
+    font-size: 20px;
+    padding-top: 11px;
+  }
+  #impact .impact-title p {
+    width: auto;
+    font-size: 13px;
+    line-height: 23px;
+    margin: 0 auto;
+    margin-top: 3px;
+  }
+  #impact .impact-icon h4 {
+    font-size: 17px;
+    line-height: 18px;
+  }
+  #impact .impact-icon p {
+    width: auto;
+    font-size: 14px;
+    line-height: 21px;
+  }
+  #impact .vector-img {
+   display: none;
+}
+#impact {
+    margin-bottom: 0px;
+}
+.do-bottom {
+    margin-top: 7px;
+    padding-bottom: 25px;
+}
+#course img {
+    padding-top: 0px;
+}
+#plan {
+    padding-top: 0px;
+}
+ #plan .plan-title h2 {
+    font-size: 18px;
+  }
+  #plan .basic {
+    width: auto;
+  }
+  .basic img {
+    width: 100%;
+  }
+  #plan .plan-cart {
+    margin-top: 21px;
+  }
+  #plan .basic h3 {
+    font-size: 25px;
+    line-height: 16px;
+  }
+  #plan .professional {
+    margin-top: 10px;
+  }
+  #plan .professional img {
+    width: 100%;
+  }
+  #plan .basic {
+    margin-top: 5px;
+  }
+  #aboutus .about-title h2 {
+    font-size: 16px;
+  }
+  #aboutus .about-title {
+    padding-top: 0px;
+  }
+  #plan {
+    padding-bottom: 13px;
+  }
+  #aboutus .about ul {
+    margin-left: 191px;
+  }
+  #aboutus .about {
+    margin-top: 109px;
+  }
+  #aboutus .about ul li img {
+    margin-top: 84px;
+  }
+  #aboutus .about ul li img {
+    width: 100%;
+}
+  #aboutus .about p {
+    font-size: 16px;
+    line-height: 26px;
+    width: auto;
+  }
+  #aboutus .about h4 {
+    font-size: 23px;
+    margin-top: 11px;
+  }
+  #like {
+    padding: 15px 0;
+}
+#like .like-title h2 {
+    font-size: 24px;
+    line-height: 24px;
+    text-align: center;
+}
+#like .like_left {
+    width: auto;
+    margin-top: 10px;
+}
+#like .like_right {
+    margin-left: 16px;
+}
+#like .like_right ul li {
+    margin-top: 21px;
+}
+.like_right ul{
+    gap: 10px !important;
+}
+#like .like_right h3 {
+    font-size: 16px;
+    line-height: 29px;
+    width: auto;
+    margin-top: 0px;
+}
+#like img {
+  display: none;
+}
+footer #footer-top .footerimage {
+    padding-top: 22px;
+}
+.footerimage img{
+    width: 100px;
+}
+footer #footer-top .footerimage p {
+    font-size: 14px;
+    line-height: 158%;
+    width: auto;
+    margin-top: 12px;
+}
+footer .features h4 {
+    
+    font-size: 16px;
+    line-height: 0%;
+}
+footer .features {
+    margin-top: 12px;
+}
+footer .features ul li {
+    margin-top: 10px;
+}
+footer .features ul li a {
+    font-size: 14px;
+}
+#course .course-1 p {
+    width: auto;
+  
+}
+#aboutus .about p {
+    margin-top: 78px;
+}
+#aboutus {
+    padding-bottom: 17px;
+}
+#course .course-1 {
+    width: auto;
+  
+}
+}
